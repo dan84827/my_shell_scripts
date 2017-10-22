@@ -1,7 +1,6 @@
 #!/bin/sh
 
-# findman -- given a pattern and a man section, show all the matches
-#   for that pattern from within all relevant man pages.
+#find pattern in man pages
 
 match1="/tmp/$0.1.$$"
 matches="/tmp/$0.$$"
