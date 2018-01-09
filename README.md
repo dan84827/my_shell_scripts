@@ -1,4 +1,4 @@
-These are some cool scripts I use on a daily basis that make my life a little bit easier.
+These are some cool scripts I use sometimes that make my life a little bit easier.
 
 # valid_name.sh 
 
